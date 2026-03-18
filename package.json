@@ -2,7 +2,7 @@
   "name": "econ-by-master-ian",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://ian-edu.github.io/econ-by-master-ian",
+  "homepage": "https://ian-edu.github.io/A-level-economics-by-Ian",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
