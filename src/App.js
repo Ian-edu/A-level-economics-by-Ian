@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+mport React, { useState, useEffect } from 'react';
 
 const EconomicsQuiz = () => {
   const [currentScreen, setCurrentScreen] = useState('menu');
